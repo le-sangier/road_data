@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Wed Aug  2 15:15:40 2017 by SUMO polyconvert Version 0.30.0
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/polyconvertConfiguration.xsd">
+
+    <input>
+        <net-file value="bridger_road.net.xml"/>
+        <osm-files value="bridger_road.osm"/>
+        <type-file value="typemap.xml"/>
+    </input>
+
+    <output>
+        <output-file value="bridger_road.poly.xml"/>
+    </output>
+
+    <processing>
+        <poi-layer-offset value="5"/>
+    </processing>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <location netOffset="-499377.67,-5056911.78" convBoundary="-8607.93,0.00,23444.07,54534.90" origBoundary="-111.119295,45.665639,-110.706323,46.156596" projParameter="+proj=utm +zone=12 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+
+    
+</additional>
